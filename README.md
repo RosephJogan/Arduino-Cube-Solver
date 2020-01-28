@@ -10,4 +10,7 @@ IMPORTANT:
 Change the OneStep() function and stepper pin definitions according to what kind of stepper motor you have.
 I used a 28BYJ-48 stepper motor, with a ULN2003 driver.
 
+
+Also! The code is very, very messy. I'm talking 1000 lines messy. If you could contribute by submitting a request, that would really help!
+
 You should be set! For questions or help, email me at seanthegreat29@gmail.com
