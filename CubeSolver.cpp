@@ -1,4 +1,3 @@
-
 #include <Servo.h>
 Servo Thing;
 int step_number = 0;
